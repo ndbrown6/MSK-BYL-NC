@@ -5,4 +5,4 @@
 &nbsp;
 &nbsp;
 
-![Front page](https://github.com/ndbrown6/Alpelisib_AI/blob/master/ext/Alpelisib_AI.png)
+![Front page](https://github.com/ndbrown6/MSK-BYL-NC/blob/master/ext/Alpelisib_AI.png)
